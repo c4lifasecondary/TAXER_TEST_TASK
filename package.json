@@ -1,0 +1,20 @@
+{
+  "name": "taxer_test-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "open-test": "npx cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lapo/asn1js": "^1.2.4",
+    "cypress": "^12.13.0",
+    "cypress-each": "^1.13.3",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-map": "^1.21.0"
+  }
+}
