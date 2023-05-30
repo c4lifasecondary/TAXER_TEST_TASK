@@ -5,18 +5,27 @@
 Завдання 2.
 
 Automation task build with:
+
 js;
+
 cypress;
+
 cypress-each package;
+
 cypress-file-upload package;
+
 cypress-map package;
+
 @lapo/asn1js package.
 
 To setup on your machine:
 
 Pull, install node
+
 Run npm i
+
 Run npx cypress open to firstly setup cypress
+
 In order to run with cypress dashboard you can use: npm run open-test.
 
 If you want use commandline use: npm run test.
