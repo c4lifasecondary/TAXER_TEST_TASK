@@ -31,6 +31,6 @@ Notes:
 
 Тест проходить по списку сертифікатів, які знаходяться у папці fixtures. Наразі усі тести падають, так як у реалізації апп є помилка, яка описана в файлі. У тестах використовується індекс на правильний CommonName філд для Subject. Приклад даних в assert:
 
-![Приклад](https://github.com/c4lifasecondary/TAXER_TEST_TASK/blob/master/cypress/screenshots/Приклад1.png?raw=true)
+![Приклад](https://github.com/c4lifasecondary/TAXER_TEST_TASK/blob/master/cypress/screenshots/Приклад1.PNG?raw=true)
 
 Thank you for your time <3!
